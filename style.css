@@ -299,7 +299,7 @@ section  .topic{
 .projects{
   height: 90;
   width: 80%;
-  background: url("images/Gradients.jfif") no-repeat;
+  background: url("./Images/Gradients.jfif") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
