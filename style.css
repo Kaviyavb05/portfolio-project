@@ -159,7 +159,7 @@ body{
 .home{
   height: 120vh;
   width: 100%;
-  background: url("images/profile2.jpg") no-repeat;
+  background: url("./images/profile2.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
